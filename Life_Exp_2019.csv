@@ -1,0 +1,182 @@
+Country,Year,Life expectancy,Mortality ,Infant Mortality,Alcohol,Hepatitis B,Diphtheria,HIV/AIDS,Income composition of resources,Status
+Afghanistan,2019,63.2,6.29,46.71,0.01,72,72,0.10,0.432,Developing
+Albania,2019,78,8.08,8.72,4.40,99,99,0.10,0.727,Developing
+Algeria,2019,77.1,4.72,19.63,0.59,91,91,0.10,0.743,Developing
+Angola,2019,63.1,7.98,51.25,5.84,53,57,1.80,0.607,Developing
+Antigua and Barbuda,2019,76.5,6.42,5.35,11.88,99,95,9.80,0.816,Developing
+Argentina,2019,76.6,7.60,9.79,7.95,83,83,2.80,0.781,Developing
+Armenia,2019,76,9.84,10.31,3.77,92,92,0.60,0.684,Developing
+Australia,2019,83,6.70,3.00,9.51,95,95,0.20,0.920,Developed
+Austria,2019,81.6,9.40,2.99,11.90,85,85,0.40,0.927,Developed
+Azerbaijan,2019,71.4,5.60,18.05,1.38,94,94,0.10,0.759,Developing
+Bahamas,2019,73.2,6.93,14.56,9.48,89,89,3.40,0.853,Developing
+Bahrain,2019,75.8,2.41,5.92,1.18,99,99,0.90,0.907,Developing
+Bangladesh,2019,74.3,5.53,25.24,0.00,98,98,0.10,0.559,Developing
+Barbados,2019,76,9.07,11.45,9.94,90,90,0.80,0.766,Developing
+Belarus,2019,74.8,12.80,2.33,10.57,97,98,0.50,0.776,Developing
+Belgium,2019,81.4,9.50,3.63,9.15,97,97,0.20,0.919,Developed
+Belize,2019,74.4,4.76,10.47,5.93,98,98,30.30,0.645,Developing
+Benin,2019,63.4,8.72,57.93,1.25,76,76,0.90,0.462,Developing
+Bhutan,2019,73.1,6.25,23.89,0.07,97,97,0.20,0.673,Developing
+Bolivia (Plurinational State of),2019,72.1,6.76,28.36,2.98,75,75,0.10,0.638,Developing
+Bosnia and Herzegovina,2019,76.8,10.88,5.14,5.46,80,73,0.10,0.732,Developing
+Botswana,2019,62.2,5.71,34.92,5.98,95,95,19.90,0.766,Developing
+Brazil,2019,75.9,6.53,13.29,6.12,72,70,5.10,0.747,Developing
+Brunei Darussalam,2019,74.3,4.55,9.18,0.69,99,99,0.10,1.000,Developing
+Bulgaria,2019,75.1,15.50,5.52,11.18,93,93,0.20,0.798,Developed
+Burkina Faso,2019,62.7,7.91,52.25,7.28,91,91,0.70,0.428,Developing
+Burundi,2019,63.8,7.77,39.95,4.07,93,93,1.00,0.285,Developing
+Côte d'Ivoire,2019,62.9,9.86,59.82,1.70,81,81,1.80,0.589,Developing
+Cabo Verde,2019,74,5.58,12.61,4.70,97,96,0.50,0.631,Developing
+Cambodia,2019,70.1,5.99,22.38,4.56,92,92,0.50,0.541,Developing
+Cameroon,2019,62.4,9.06,51.41,4.09,67,67,3.00,0.528,Developing
+Canada,2019,82.2,7.60,4.37,8.00,84,91,0.30,0.918,Developed
+Central African Republic,2019,53.1,11.97,74.65,0.94,42,42,2.90,0.310,Developing
+Chad,2019,59.6,11.91,72.20,0.55,50,50,1.10,0.429,Developing
+Chile,2019,80.7,6.25,6.59,7.80,96,96,2.20,0.815,Developing
+China,2019,77.4,7.09,6.56,4.48,99,99,0.10,0.768,Developing
+Colombia,2019,79.3,5.63,11.59,4.09,92,94,4.90,0.734,Developing
+Comoros,2019,67.4,7.14,48.34,0.18,91,91,0.20,0.482,Developing
+Congo,2019,64.7,7.82,35.42,5.74,79,79,1.60,0.613,Developing
+Costa Rica,2019,80.8,5.15,7.02,3.07,97,95,3.80,0.755,Developing
+Croatia,2019,78.6,12.70,3.61,9.64,93,94,0.20,0.822,Developing
+Cuba,2019,77.8,9.15,4.19,4.70,99,99,3.80,0.658,Developing
+Cyprus,2019,83.1,7.10,2.40,9.64,94,96,0.20,0.876,Developed
+Czechia,2019,79.1,10.50,2.54,12.73,97,97,0.10,0.869,Developed
+Democratic Republic of the Congo,2019,62.4,9.77,55.51,0.56,73,79,0.70,0.000,Developing
+Denmark,2019,81.3,9.30,2.95,9.16,99,97,0.30,0.935,Developed
+Djibouti,2019,65.8,6.98,40.68,0.21,85,85,0.80,0.541,Developing
+Dominican Republic,2019,72.8,6.19,27.85,5.56,87,89,6.60,0.758,Developing
+Ecuador,2019,78.4,5.12,11.40,3.05,85,85,4.60,0.698,Developing
+Egypt,2019,71.8,5.78,17.01,0.14,95,95,0.00,0.706,Developing
+El Salvador,2019,75,7.07,11.31,2.94,81,81,2.60,0.641,Developing
+Equatorial Guinea,2019,62.2,9.11,60.24,6.11,53,53,7.30,0.783,Developing
+Eritrea,2019,64.1,7.01,30.48,0.93,95,95,0.50,0.429,Developing
+Estonia,2019,78.9,11.60,1.60,11.65,91,91,2.90,0.863,Developed
+Ethiopia,2019,68.7,6.42,36.63,1.16,68,68,0.90,0.435,Developing
+Fiji,2019,68,8.26,22.33,2.71,99,99,0.20,0.682,Developing
+Finland,2019,81.6,9.80,2.05,8.23,98,91,0.10,0.912,Developed
+France,2019,82.5,9.10,3.75,11.44,91,96,0.40,0.907,Developed
+Gabon,2019,66.5,6.70,30.94,6.47,70,70,3.00,0.765,Developing
+Gambia,2019,65.5,7.72,32.39,2.67,88,88,1.50,0.408,Developing
+Georgia,2019,73.3,12.79,8.51,7.45,94,94,1.60,0.689,Developing
+Germany,2019,81.7,11.30,3.18,10.56,88,91,0.30,0.929,Developed
+Ghana,2019,66.3,7.22,34.00,1.59,97,97,1.70,0.561,Developing
+Greece,2019,81.1,11.70,3.62,6.33,96,99,0.30,0.834,Developed
+Grenada,2019,72.9,9.58,13.54,8.62,94,92,1.20,0.732,Developing
+Guatemala,2019,72,4.72,20.30,1.63,85,85,1.70,0.650,Developing
+Guinea,2019,61,8.23,67.41,0.33,47,47,1.40,0.468,Developing
+Guinea-Bissau,2019,60.2,9.43,54.12,3.21,78,78,3.00,0.418,Developing
+Guyana,2019,65.7,7.55,23.96,5.11,99,99,23.30,0.654,Developing
+Haiti,2019,64.1,8.45,47.83,2.85,51,51,1.90,0.425,Developing
+Honduras,2019,71.9,4.45,14.21,2.73,88,88,0.20,0.567,Developing
+Hungary,2019,76.4,13.30,3.63,10.79,90,99,0.10,0.846,Developed
+Iceland,2019,82.3,6.30,1.25,7.72,90,92,0.50,0.931,Developed
+India,2019,70.8,7.27,27.90,3.09,91,91,0.20,0.638,Developing
+Indonesia,2019,71.3,6.51,19.81,0.08,85,85,0.90,0.714,Developing
+Iran (Islamic Republic of),2019,77.3,4.84,11.40,0.02,99,99,0.10,0.786,Developing
+Iraq,2019,72.4,4.74,21.75,0.16,84,84,0.10,0.761,Developing
+Ireland,2019,81.8,6.30,2.62,10.91,93,94,0.20,0.955,Developed
+Israel,2019,82.6,5.10,3.27,3.07,96,98,0.10,0.879,Developing
+Italy,2019,83,10.60,2.38,7.65,95,96,0.60,0.890,Developed
+Jamaica,2019,76,7.59,11.85,3.46,96,96,21.80,0.661,Developing
+Japan,2019,84.3,11.00,1.86,8.36,99,98,0.00,0.908,Developed
+Jordan,2019,77.9,3.89,13.19,0.25,89,89,0.10,0.667,Developing
+Kazakhstan,2019,74,7.19,9.08,3.73,97,97,1.50,0.816,Developing
+Kenya,2019,66.1,5.39,31.13,1.68,91,91,4.20,0.516,Developing
+Kiribati,2019,59.4,6.28,40.50,0.43,94,97,0.10,0.554,Developing
+Kuwait,2019,81,2.80,7.52,0.00,92,92,0.10,0.992,Developing
+Kyrgyzstan,2019,74.2,5.20,16.25,4.02,95,95,1.20,0.529,Developing
+Lao People's Democratic Republic,2019,68.5,6.37,36.64,8.15,80,80,0.20,0.626,Developing
+Latvia,2019,75.4,14.50,3.23,12.90,99,99,3.80,0.842,Developed
+Lebanon,2019,76.4,4.46,6.22,1.14,80,83,0.10,0.712,Developing
+Lesotho,2019,50.7,13.93,70.05,3.56,87,87,21.10,0.526,Developing
+Liberia,2019,64.1,7.38,61.09,3.12,70,70,1.10,0.354,Developing
+Libya,2019,75.8,5.10,10.38,0.01,73,73,0.10,0.719,Developing
+Lithuania,2019,76,13.70,3.23,11.93,92,92,0.70,0.860,Developed
+Luxembourg,2019,82.4,6.90,4.39,11.00,96,99,0.20,0.980,Developed
+Madagascar,2019,65.3,5.93,37.24,0.89,68,68,0.30,0.399,Developing
+Malawi,2019,65.6,6.42,30.12,2.04,95,95,8.10,0.370,Developing
+Malaysia,2019,74.7,5.17,7.32,0.64,97,98,1.40,0.847,Developing
+Maldives,2019,79.6,2.76,5.96,1.38,98,98,0.10,0.730,Developing
+Mali,2019,62.8,9.41,58.75,0.60,77,77,0.90,0.450,Developing
+Malta,2019,81.9,7.30,6.51,8.07,98,98,2.10,0.884,Developed
+Mauritania,2019,68.4,7.12,47.78,0.00,80,80,0.30,0.547,Developing
+Mauritius,2019,74.1,8.80,13.55,3.39,97,96,11.60,0.820,Developing
+Mexico,2019,76,6.08,12.00,4.25,56,82,4.20,0.781,Developing
+Micronesia (Federated States of),2019,63,6.61,20.91,1.59,84,78,0.10,0.545,Developing
+Mongolia,2019,68.1,6.34,13.58,5.46,98,98,0.10,0.707,Developing
+Montenegro,2019,75.9,10.60,2.51,9.91,62,85,0.10,0.780,Developing
+Morocco,2019,73,5.06,16.56,0.51,99,99,0.40,0.652,Developing
+Mozambique,2019,58.1,8.21,55.01,1.46,88,88,11.50,0.369,Developing
+Myanmar,2019,69.1,8.22,35.74,2.06,90,90,0.20,0.612,Developing
+Namibia,2019,64.6,7.89,29.78,2.38,87,87,11.60,0.691,Developing
+Nepal,2019,70.9,6.32,24.55,0.36,93,93,0.10,0.501,Developing
+Netherlands,2019,81.8,8.80,3.64,8.23,92,94,0.20,0.939,Developed
+New Zealand,2019,82,6.87,3.85,9.17,92,92,0.30,0.885,Developed
+Nicaragua,2019,75,5.08,14.03,3.69,98,98,3.40,0.584,Developing
+Niger,2019,63.3,8.03,44.51,0.11,81,81,0.20,0.334,Developing
+Nigeria,2019,62.6,11.63,76.28,4.49,56,56,1.30,0.594,Developing
+Norway,2019,82.6,7.60,2.06,6.05,96,97,0.10,0.985,Developed
+Oman,2019,73.9,2.42,9.51,0.47,99,99,0.10,0.893,Developing
+Pakistan,2019,65.6,6.89,55.48,0.04,84,84,0.20,0.597,Developing
+Panama,2019,79.3,5.11,13.66,6.54,88,88,11.90,0.804,Developing
+Papua New Guinea,2019,65.3,7.35,35.90,1.26,35,35,0.90,0.545,Developing
+Paraguay,2019,75.8,5.54,16.42,5.47,86,86,4.20,0.720,Developing
+Peru,2019,79.9,5.58,10.73,5.74,88,88,4.00,0.727,Developing
+Philippines,2019,70.4,5.92,22.84,4.85,71,71,0.80,0.689,Developing
+Poland,2019,78.3,10.80,3.79,10.96,91,95,0.30,0.849,Developed
+Portugal,2019,81.6,10.90,2.81,10.37,98,99,2.90,0.851,Developed
+Qatar,2019,77.2,1.24,5.24,0.96,98,98,0.10,1.000,Developing
+Republic of Korea,2019,83.3,5.70,2.57,7.74,98,98,0.10,0.921,Developing
+Republic of Moldova,2019,73.3,11.69,12.58,7.45,94,91,0.10,0.796,Developing
+Romania,2019,75.6,13.40,5.81,10.96,90,88,0.70,0.827,Developed
+Russian Federation,2019,73.2,12.30,4.08,7.29,97,97,0.10,0.834,Developing
+Rwanda,2019,69.1,5.12,31.02,6.35,98,98,2.50,0.449,Developing
+Saint Lucia,2019,74.3,7.26,11.79,9.30,92,92,0.60,0.717,Developing
+Saint Vincent and the Grenadines,2019,73.2,9.34,12.48,7.48,97,97,1.50,0.720,Developing
+Samoa,2019,70.5,5.20,15.26,2.18,68,68,0.10,0.616,Developing
+Sao Tome and Principe,2019,70.4,4.76,13.31,4.23,95,95,0.30,0.515,Developing
+Saudi Arabia,2019,74.3,3.51,6.27,0.00,96,96,0.70,0.937,Developing
+Senegal,2019,68.6,5.60,26.13,0.25,96,95,0.30,0.526,Developing
+Serbia,2019,75.9,14.60,4.47,7.45,94,97,0.40,0.759,Developing
+Seychelles,2019,73.3,8.10,12.11,9.48,99,99,0.10,0.835,Developing
+Sierra Leone,2019,60.8,11.51,76.71,3.22,95,95,1.50,0.397,Developing
+Singapore,2019,83.2,5.00,1.79,1.81,96,96,0.20,1.000,Developing
+Slovakia,2019,78.2,9.80,5.00,10.30,97,97,0.20,0.865,Developed
+Slovenia,2019,81.3,9.90,2.06,11.05,88,95,0.20,0.872,Developed
+Solomon Islands,2019,65.2,4.23,16.87,1.19,94,94,0.10,0.455,Developing
+South Africa,2019,65.3,9.40,26.54,7.21,85,85,39.60,0.720,Developing
+South Sudan,2019,62.8,10.34,63.74,0,49,49,2.30,0.404,Developing
+Spain,2019,83.2,8.80,2.59,10.72,95,95,0.90,0.885,Developed
+Sri Lanka,2019,76.9,6.75,6.17,2.58,99,99,0.10,0.718,Developing
+Sudan,2019,69.1,7.12,40.99,0.51,93,93,0.20,0.556,Developing
+Suriname,2019,71.5,7.39,16.16,6.60,77,77,15.10,0.722,Developing
+Swaziland,2019,57.7,9.06,36.78,7.68,90,90,0.56,0.608,Developing
+Sweden,2019,82.4,8.60,2.03,7.10,97,98,0.10,0.932,Developed
+Switzerland,2019,83.4,7.90,3.30,9.41,69,96,0.20,0.965,Developed
+Syrian Arab Republic,2019,72.7,5.11,18.12,0.13,54,54,0.10,0.499,Developing
+Tajikistan,2019,69.5,4.77,28.75,0.85,97,97,0.20,0.536,Developing
+Thailand,2019,77.7,7.79,7.70,6.86,97,97,6.00,0.768,Developing
+The former Yugoslav republic of Macedonia,2019,74.8,9.80,4.94,3.90,92,92,0.10,0.758,Developing
+Timor-Leste,2019,69.6,5.94,35.19,0.41,90,90,0.20,0.653,Developing
+Togo,2019,64.3,8.32,46.79,1.40,84,84,2.00,0.418,Developing
+Tonga,2019,72.6,7.10,10.05,0.31,99,99,0.10,0.613,Developing
+Trinidad and Tobago,2019,76.1,8.50,15.51,5.81,93,93,15.20,0.854,Developing
+Tunisia,2019,77,6.26,14.29,1.51,98,98,0.10,0.706,Developing
+Turkey,2019,78.6,5.44,8.59,1.18,99,99,0.10,0.833,Developing
+Turkmenistan,2019,69.7,7.04,36.22,2.88,99,99,0.10,0.770,Developing
+Uganda,2019,66.7,6.38,32.93,6.82,93,93,5.40,0.433,Developing
+Ukraine,2019,73,14.70,5.74,5.69,76,80,8.20,0.662,Developing
+United Arab Emirates,2019,76.1,1.52,5.78,2.03,98,99,0.10,0.983,Developing
+United Kingdom of Great Britain and Northern Ireland,2019,81.4,9.00,3.76,9.80,93,93,0.10,0.946,Developed
+United Republic of Tanzania,2019,67.3,6.35,36.31,7.81,89,89,1.20,0.549,Developing
+United States of America,2019,78.5,6.31,5.54,8.93,91,94,0.10,0.956,Developed
+Uruguay,2019,77.1,9.47,5.30,5.42,94,94,4.50,0.796,Developing
+Uzbekistan,2019,73,4.60,13.24,2.45,96,96,1.50,0.630,Developing
+Vanuatu,2019,65.3,5.20,21.28,1.60,90,90,0.10,0.504,Developing
+Venezuela (Bolivarian Republic of),2019,73.9,7.12,15.76,2.51,64,64,0.10,0.681,Developing
+Viet Nam,2019,73.7,6.38,16.65,3.41,89,89,0.10,0.624,Developing
+Yemen,2019,66.6,5.98,46.52,0.02,73,73,0.10,0.402,Developing
+Zambia,2019,62.5,6.32,44.19,3.82,88,88,11.10,0.541,Developing
+Zimbabwe,2019,60.7,7.77,37.19,3.11,90,90,11.90,0.496,Developing
