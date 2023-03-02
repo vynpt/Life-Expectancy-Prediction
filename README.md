@@ -6,4 +6,4 @@ The benefit of knowing life expectancy is to evaluate the performance of the gov
 
 This project models the UN diving into different macro-factors provided from World Health Organization (WHO) dataset 2014 for a linear regression prediction of life expectancy. Note that due to the complex dynamics of the pandemic from 2020, the prediction only claims to hold validation in exclusion of direct pandemic effects on people’s life span. Data of 2014 was used as it is the closest year with full accessible data.
 
-Team member: Vy Nguyen (Team Lead), Ashley Nguyen, Ken Ye, Luke Her
+Team: Vy Nguyen (Team Lead), Ashley Nguyen, Ken Ye, Luke Her
